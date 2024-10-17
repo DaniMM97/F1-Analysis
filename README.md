@@ -6,6 +6,6 @@ The notebooks are made in google colab, so there is specific code for that envir
 
 Some of these analysis were also made in my twitter account (@DataF1_ and @DataF1_es for spanish content), with a further development and explanations of each of the plots of the Formula 1 races.
 
-![Example 1](Japan Race 2023/Images/sai_ham_rus_laps.jpeg)
+![Example 1](Japan%20Race%202023/Images/sai_ham_rus_laps.jpeg)
 
-![Example 2](Japan Race 2023/Images/full_telemetry.png)
+![Example 2](Japan%20Race%202023/Images/full_telemetry.png)
